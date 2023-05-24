@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    overflow: hidden !important;
+  }
+
+  canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    background: transparent;
+    width: 100vw;
+    height: 100vh;
+    
+  }
+
+  @media (max-width: 767px) {
+    canvas{
+        height: 71vh;
+
+    }
+  }
