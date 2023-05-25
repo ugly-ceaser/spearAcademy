@@ -318,7 +318,29 @@ nav{
     color: #6f4aff;
 }
 
+.smallerText{
+    
+  
+    text-align: left;
+    color: #6f4aff;
+    font-weight: bolder;
+    line-height: 40px;
+    font-size: 20px;
+}
+.specialText{
+color: yellow;
+font-size: 30px;
+font-weight: bolder;
+text-shadow: 2px 2px 4px rgba(111, 74, 255, 0.5);
 
+
+
+}
+.callToAction{
+    color: black;
+    font-weight: bolder;
+    font-size: 40px;
+}
 
 
 
